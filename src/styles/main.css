@@ -62,7 +62,7 @@ a:hover {
     width: 65%;
     display: flex;
     flex-direction: column;
-    justify-content: space-between; /* Distribui os itens com espaços entre eles */
+    justify-content: space-between;
     height: 100vh;
 }
 
@@ -119,8 +119,8 @@ a:hover {
 #player-cards {
     display: flex;
     align-items: center;
-    justify-content: space-between; /* Ajuste no alinhamento dos itens */
-    width: 100%; /* Ajuste para ocupar a largura disponível */
+    justify-content: space-between; 
+    width: 100%; 
     height: 9rem;
     margin-top: 5rem;
 }
