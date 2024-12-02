@@ -29,7 +29,7 @@ O layout é composto por duas seções principais:
 
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador web.
-3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
+3. Clique sobre a carta que achar ideal e torça para que o inimigo não vença a rodada.
 4. Divirta-se explorando o jogo!
 
 ### Contribuição
