@@ -24,3 +24,22 @@ O layout é composto por duas seções principais:
 - ### Alterações:
 - **Funcionalidades**: Foi adicionada a informação sobre o áudio ser ativado apenas após interação do usuário.
 - **Tecnologias Utilizadas**: Agora inclui o **JavaScript**, que é a tecnologia responsável pela interatividade do áudio.
+
+- ### Como Jogar
+
+1. Clone este repositório para sua máquina local.
+2. Abra o arquivo `index.html` em seu navegador web.
+3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
+4. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
+
+### Contribuição
+
+Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um _pull request_.
+
+### Créditos
+
+Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
+
+---
+
+Divirta-se jogando o **Jogo de Jo-ken-po - Yu-Gi-Oh! Version** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript.
